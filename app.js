@@ -9,7 +9,7 @@ const lossPage = document.getElementById('loss');
 const homePage = document.getElementById('container');
 const primePage = document.querySelector('.prime-page');
 const nonPrimePage = document.querySelector('.not-prime-page');
-const emojis = [ '😔'];
+const emojis = [ '😐'];
 const emojiContainer = document.getElementById('emoji-shower');
 const backBtns = document.querySelectorAll('#back-btn');
 
